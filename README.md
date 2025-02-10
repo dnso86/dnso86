@@ -6,9 +6,8 @@
 
 # Contact
 
+- 🦋 [Bluesky](https://0d8x86.bsky.social)
 - 🗒️ [Medium](https://medium.com/@od8086)
-- 📫 [Telegram](https://t.me/od8086)
-- 🐦 [Twitter](https://x.com/0d8x86)
 
 <!---
 dnso86/dnso86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
