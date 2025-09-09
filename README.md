@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,bash,c,cpp,docker,gcp,git,github,go,linux,lua,md,mongodb,mysql,openshift,postgres,powershell,py,redis,regex,rust,sqlite,terraform,vim,visualstudio,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=azure,bash,c,cpp,docker,gcp,github,go,linux,md,mongodb,mysql,openshift,powershell,py,redis,regex,redhat,terraform,vim,visualstudio&perline=7" />
   </a>
 </p>
 
